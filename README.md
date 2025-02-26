@@ -12,31 +12,31 @@ This repository covers a range of NLP tasks using classical and modern technique
 - **Key Topics:** Word embeddings, co-occurrence matrices, vector representation.
 - **Dataset:** Brown dataset (first 350 sentences) and WordNet synonyms.
 - **Evaluation:** Mean Absolute Error (MAE) on cosine similarity between synonyms.
-- **Notebook:** [Link]
+- **Notebook:** [[Link](https://github.com/ForYourEyesOnlyyy/Natural-Language-Processing/blob/main/notebooks/GLoVe.ipynb)]
 
 ### 2️⃣ **Summarization with a Language Model**
 - **Task:** Train a language model to generate text summaries.
 - **Key Topics:** Extractive & abstractive summarization, **Transformer-based models**.
 - **Evaluation:** Rouge-L score between generated and actual summaries.
-- **Notebook:** [Link]
+- **Notebook:** [[Link](https://github.com/ForYourEyesOnlyyy/Natural-Language-Processing/blob/main/notebooks/Language_Modelling..ipynb)]
 
 ### 3️⃣ **Named Entity Recognition (NER) for Recipes**
 - **Task:** Apply NER techniques to identify ingredients in recipes.
 - **Key Topics:** Sequence labeling, **spaCy & Transformer-based NER models**.
 - **Evaluation:** Macro F1 score.
-- **Notebook:** [Link]
+- **Notebook:** [[Link](https://github.com/ForYourEyesOnlyyy/Natural-Language-Processing/blob/main/notebooks/NER.ipynb)]
 
 ### 4️⃣ **Feature Engineering Using Parsing for Text Classification**
 - **Task:** Classify medical transcriptions into medical specialties using **constituency & dependency parsing**.
 - **Key Topics:** Feature extraction, syntactic parsing, NLP classification.
 - **Evaluation:** Macro F1 score.
-- **Notebook:** [Link]
+- **Notebook:** [[Link](https://github.com/ForYourEyesOnlyyy/Natural-Language-Processing/blob/main/notebooks/%20Feature_Engineering_with_Dependency_Parsing.ipynb)]
 
 ### 5️⃣ **Word Sense Disambiguation (WSD) with Lesk Algorithm**
 - **Task:** Solve **WSD** by implementing the **Lesk algorithm**.
 - **Key Topics:** Sense disambiguation, WordNet dictionary, text similarity.
 - **Evaluation:** **Levenshtein distance** (Lower is better) between predicted and ground truth definitions from Senseval dataset.
-- **Notebook:** [Link]
+- **Notebook:** [[Link](https://github.com/ForYourEyesOnlyyy/Natural-Language-Processing/blob/main/notebooks/WSD.ipynb)]
 
 ---
 ## 🔧 Tools & Frameworks Used
